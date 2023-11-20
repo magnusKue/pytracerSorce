@@ -1,3 +1,4 @@
+This repo is part of a school project and is only intended for my teacher to see. Please ignore.
 # pytracerSorce
 kurze pytracer codeabschnitte mit erklärung
 
